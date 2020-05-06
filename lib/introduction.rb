@@ -1,3 +1,3 @@
-def greeting(name, language)
-  puts "Hello #{name}, I hear you're great at #{language}"
+def introduction(name)
+  puts "Hi, my name is #{name}.""
 end
